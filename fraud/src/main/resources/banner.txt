@@ -1,0 +1,18 @@
+
+                                                                                       dddddddd
+FFFFFFFFFFFFFFFFFFFFFF                                                                 d::::::d
+F::::::::::::::::::::F                                                                 d::::::d
+F::::::::::::::::::::F                                                                 d::::::d
+FF::::::FFFFFFFFF::::F                                                                 d:::::d
+  F:::::F       FFFFFFrrrrr   rrrrrrrrr   aaaaaaaaaaaaa  uuuuuu    uuuuuu      ddddddddd:::::d
+  F:::::F             r::::rrr:::::::::r  a::::::::::::a u::::u    u::::u    dd::::::::::::::d
+  F::::::FFFFFFFFFF   r:::::::::::::::::r aaaaaaaaa:::::au::::u    u::::u   d::::::::::::::::d
+  F:::::::::::::::F   rr::::::rrrrr::::::r         a::::au::::u    u::::u  d:::::::ddddd:::::d
+  F:::::::::::::::F    r:::::r     r:::::r  aaaaaaa:::::au::::u    u::::u  d::::::d    d:::::d
+  F::::::FFFFFFFFFF    r:::::r     rrrrrrraa::::::::::::au::::u    u::::u  d:::::d     d:::::d
+  F:::::F              r:::::r           a::::aaaa::::::au::::u    u::::u  d:::::d     d:::::d
+  F:::::F              r:::::r          a::::a    a:::::au:::::uuuu:::::u  d:::::d     d:::::d
+FF:::::::FF            r:::::r          a::::a    a:::::au:::::::::::::::uud::::::ddddd::::::dd
+F::::::::FF            r:::::r          a:::::aaaa::::::a u:::::::::::::::u d:::::::::::::::::d
+F::::::::FF            r:::::r           a::::::::::aa:::a uu::::::::uu:::u  d:::::::::ddd::::d
+FFFFFFFFFFF            rrrrrrr            aaaaaaaaaa  aaaa   uuuuuuuu  uuuu   ddddddddd   ddddd

@@ -1,4 +1,4 @@
-package com.selflearn.fraud;
+package com.selflearn.customer;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
