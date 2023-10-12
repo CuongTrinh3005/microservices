@@ -1,11 +1,14 @@
 package com.selflearn.customer;
 
+import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public record CustomerService(CustomerRepository customerRepository) {
+@AllArgsConstructor
+public class CustomerService {
+    private final CustomerRepository customerRepository;
     public List<Customer> getAll(){
         return customerRepository.findAll();
     }
